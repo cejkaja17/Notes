@@ -1,0 +1,15 @@
+E:\korona\va\Notes\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+E:\korona\va\Notes\Notes\bin\Debug\netstandard2.0\Notes.dll
+E:\korona\va\Notes\Notes\bin\Debug\netstandard2.0\ref\Notes.dll
+E:\korona\va\Notes\Notes\bin\Debug\netstandard2.0\Notes.pdb
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\NotesEntryPage.xaml.g.cs
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+E:\korona\va\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
